@@ -6,7 +6,7 @@ public class Homework01 {
         System.out.println(arithmeticOperations(1f,20f,30f,40f));
         System.out.println(checkResultInterval(10,2));
         checkPositiveNumberVoid(-10);
-        System.out.println(checkPositiveNumberBoolean(-100));
+        System.out.println(checkPositiveNumberBoolean(-15));
         sayHello("Анечка");
         checkLeapYear(800);
     }
